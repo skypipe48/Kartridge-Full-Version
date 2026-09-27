@@ -241,4 +241,4 @@ This repository serves as the official landing page for Kartridge. The software 
 **Get the most recent version of Kartridge today!**
 
 ---
-**Last updated:** 2026-09-26 21:46:12 UTC
+**Last updated:** 2026-09-27 00:09:17 UTC
